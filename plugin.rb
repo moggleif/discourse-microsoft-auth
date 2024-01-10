@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-# name: discourse-microsoft-auth
+# name: discourse-microsoft-auth_temp
 # about: Enable Login via Microsoft Identity Platform (Office 365 / Microsoft 365 Accounts)
 # meta_topic_id: 51731
-# version: 1.0
+# version: 1.1
 # authors: Matthew Wilkin
-# url: https://github.com/discourse/discourse-microsoft-auth
+# url: https://github.com/moggleif/discourse-microsoft-auth
 
 require_relative "lib/omniauth-microsoft365"
 
