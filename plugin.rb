@@ -5,7 +5,7 @@
 # meta_topic_id: 51731
 # version: 1.1
 # authors: Matthew Wilkin
-# url: https://github.com/moggleif/discourse-microsoft-auth
+# url: https://github.com/moggleif/discourse-microsoft-auth_temp
 
 require_relative "lib/omniauth-microsoft365"
 
