@@ -1,7 +1,7 @@
 {
-  "name": "discourse-microsoft-auth_temp",
-  "version": "1.1.0",
-  "repository": "git@github.com:moggleif/discourse-microsoft-auth_temp.git",
+  "name": "discourse-microsoft-auth",
+  "version": "1.0.1",
+  "repository": "git@github.com:discourse/discourse-microsoft-auth.git",
   "author": "Discourse",
   "license": "MIT",
   "devDependencies": {
